@@ -1,1 +1,4 @@
-# Order-Summary-Component
+# Frontend Mentor - Order summary card
+
+Order Summary Card
+
